@@ -2,15 +2,12 @@
 
 ## Informações do Projeto
 
-**URL**: https://lovable.dev/projects/c4a6281a-f547-45d1-9d4b-ef061d9b87ab
 
 ## Como posso editar este código?
 
 Existem várias formas de editar sua aplicação.
 
 **Use o Laboratório Guilaweb**
-
-Acesse o [Projeto no Laboratório Guilaweb](https://lovable.dev/projects/c4a6281a-f547-45d1-9d4b-ef061d9b87ab) e comece a solicitar alterações.
 
 As mudanças feitas pelo Laboratório Guilaweb serão automaticamente commitadas neste repositório.
 
@@ -62,15 +59,6 @@ Este projeto é construído com:
 
 ## Como posso implantar este projeto?
 
-Acesse o [Laboratório Guilaweb](https://lovable.dev/projects/c4a6281a-f547-45d1-9d4b-ef061d9b87ab) e clique em Compartilhar -> Publicar.
-
-## Posso conectar um domínio personalizado ao meu projeto do Laboratório Guilaweb?
-
-Sim, você pode!
-
-Para conectar um domínio, navegue até Projeto > Configurações > Domínios e clique em Conectar Domínio.
-
-Leia mais aqui: [Configurando um domínio personalizado](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
 
 ## Autoria
 
