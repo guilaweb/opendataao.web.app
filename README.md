@@ -1,65 +1,52 @@
-# Bem-vindo ao seu projeto do Laboratório Guilaweb
+# OpenDataAngola
 
-## Informações do Projeto
+OpenDataAngola é uma plataforma aberta para exploração, visualização e compartilhamento de dados públicos de Angola. Nosso objetivo é promover a transparência, facilitar pesquisas e fomentar soluções inovadoras para desafios sociais e econômicos do país.
 
+## Sumário
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Como Contribuir](#como-contribuir)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Implantação](#implantacao)
+- [Autoria](#autoria)
 
-## Como posso editar este código?
+## Sobre o Projeto
+A plataforma oferece acesso fácil a conjuntos de dados públicos, dashboards interativos e ferramentas para análise de dados. É voltada para cidadãos, pesquisadores, jornalistas, desenvolvedores e gestores públicos interessados em dados abertos de Angola.
 
-Existem várias formas de editar sua aplicação.
+## Como Contribuir
+Sua colaboração é muito bem-vinda! Existem diversas formas de participar:
 
-**Use o Laboratório Guilaweb**
+- **Sugestão de melhorias:** Proponha novas funcionalidades, melhorias de usabilidade ou novos conjuntos de dados.
+- **Compartilhamento de dados:** Ajude a ampliar nossa base de dados públicos enviando novas fontes confiáveis.
+- **Relato de problemas:** Identifique e reporte bugs, erros ou inconsistências encontradas na plataforma.
+- **Desenvolvimento:** Se você é desenvolvedor, contribua com código, correções ou novas features via pull requests.
 
-As mudanças feitas pelo Laboratório Guilaweb serão automaticamente commitadas neste repositório.
+Para participar, abra uma issue ou pull request no repositório:
+[https://github.com/guilaweb/opendataao.web.app](https://github.com/guilaweb/opendataao.web.app)
 
-**Use seu IDE preferido**
+Juntos, podemos construir uma plataforma de dados públicos cada vez melhor para Angola.
 
-Se preferir trabalhar localmente com seu próprio IDE, você pode clonar este repositório e enviar as alterações. As mudanças enviadas também serão refletidas no Laboratório Guilaweb.
-
-O único requisito é ter Node.js & npm instalados - [instale com nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Siga estes passos:
-
-```sh
-# Passo 1: Clone o repositório usando a URL do projeto.
-git clone <SUA_URL_DO_GIT>
-
-# Passo 2: Navegue até o diretório do projeto.
-cd <NOME_DO_SEU_PROJETO>
-
-# Passo 3: Instale as dependências necessárias.
-npm i
-
-# Passo 4: Inicie o servidor de desenvolvimento com recarregamento automático e pré-visualização instantânea.
-npm run dev
-```
-
-**Edite um arquivo diretamente no GitHub**
-
-- Navegue até o arquivo desejado.
-- Clique no botão "Editar" (ícone de lápis) no canto superior direito da visualização do arquivo.
-- Faça suas alterações e commite as alterações.
-
-**Use GitHub Codespaces**
-
-- Navegue até a página principal do seu repositório.
-- Clique no botão "Code" (botão verde) perto do canto superior direito.
-- Selecione a aba "Codespaces".
-- Clique em "New codespace" para lançar um novo ambiente Codespace.
-- Edite arquivos diretamente dentro do Codespace e commite e envie suas alterações quando terminar.
-
-## Quais tecnologias são usadas para este projeto?
-
-Este projeto é construído com:
-
+## Tecnologias Utilizadas
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
 
-## Como posso implantar este projeto?
+## Implantação
 
+1. **Clone o repositório:**
+   ```sh
+   git clone https://github.com/guilaweb/opendataao.web.app.git
+   cd opendataao.web.app
+   ```
+2. **Instale as dependências:**
+   ```sh
+   npm install
+   ```
+3. **Inicie o servidor de desenvolvimento:**
+   ```sh
+   npm run dev
+   ```
 
 ## Autoria
-
 Este projeto é mantido pelo Laboratório Guilaweb, com autoria da empresa DIANGUILA EMPREENDIMENTOS, LDA.
