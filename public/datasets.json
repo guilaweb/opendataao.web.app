@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dataset-001",
+    "title": "População por Província",
+    "description": "Dados populacionais por província de Angola, 2022.",
+    "category": "Demografia",
+    "source": "INE Angola",
+    "url": "https://www.ine.gov.ao/dataset-populacao",
+    "updatedAt": "2023-12-01",
+    "format": "CSV, XLSX, JSON"
+  },
+  {
+    "id": "dataset-002",
+    "title": "PIB de Angola",
+    "description": "Evolução do Produto Interno Bruto de Angola, 2010-2022.",
+    "category": "Economia",
+    "source": "Banco Nacional de Angola",
+    "url": "https://www.bna.ao/pib",
+    "updatedAt": "2024-01-15",
+    "format": "CSV, XLSX"
+  }
+]
